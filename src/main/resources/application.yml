@@ -12,9 +12,9 @@ spring:
       enabled: true
 
 # Configuraciones de seguridad
-security:
-  user:
-    name: user
-    password: password
-  basic:
-    enabled: true
+  security:
+    user:
+      name: haden
+      password: 12345
+    basic:
+      enabled: true
